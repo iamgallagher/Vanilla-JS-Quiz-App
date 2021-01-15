@@ -1,4 +1,4 @@
-# quiz-app
+# Vanilla JS Quiz App
 <br>
 Why was this project created?
 <br>
